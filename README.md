@@ -1,2 +1,4 @@
 # Portofolio-Website-B
-Based on other projects .
+
+  A static HTML5/CSS3 Page with just a simple Homepage 
+  This was done during a css3 course .
